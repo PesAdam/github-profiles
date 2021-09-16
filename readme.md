@@ -1,0 +1,2 @@
+# GitHub profiles with javascript
+Toto je veľmi jednodúcha single page appka pomocou javascriptu a github api. Stačí zadať meno uživatela githubu a zobrazia sa vám zakladne informacie o tomto uživateľovi.
